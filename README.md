@@ -9,3 +9,4 @@ The specifications of this app are given
 5. If someone wants to change the previous question then time will start on the time he left.
 6. After Quiz ends it will show the result card.
 7. You should check it by your there will be a lot more than that.
+8. Codepen link : https://codepen.io/RaoMudasir/pen/gORVqKM
